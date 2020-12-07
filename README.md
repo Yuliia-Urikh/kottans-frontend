@@ -8,7 +8,7 @@
 
 ###  Front-End Basics
 
-- [ ] Intro to HTML & CSS
+- [x] Intro to HTML & CSS
 - [ ] Responsive Web Design
 - [ ] HTML & CSS Practice
 - [ ] JavaScript Basics
@@ -41,3 +41,9 @@ I liked to travel by directories. It turned out that using commands is very comf
 ![](https://github.com/Yuliia-Urikh/kottans-frontend/blob/master/task_git_collaboration/learngitbranching.jpg)
 
 Git is not as simple as it looks. Although there were few commands to study, I'll definitely go back to additional material. It's very convenient to do tasks at home and at work without copying all the material. For sure, Git is very handy to post works for resumes :smile:
+
+## Intro to HTML and CSS
+-------------
+I knew almost all the information in the courses [Intro to HTML and CSS](https://github.com/Yuliia-Urikh/kottans-frontend/blob/master/task_html_css_intro/introHTMLandCSS.PNG) and [Learn HTML](https://github.com/Yuliia-Urikh/kottans-frontend/blob/master/task_html_css_intro/learnHTML.PNG). But I was glad to get acquainted with everything once again in English, because I don't know it well enough.
+During the course [Learn CSS](https://github.com/Yuliia-Urikh/kottans-frontend/blob/master/task_html_css_intro/learnCSS.PNG) I remembered some features of CSS, and gladly executed a block with Grid. I have never used the grid so many times before. 
+I am going to use the knowledge after this task in the following tasks) And of course in future projects. 
